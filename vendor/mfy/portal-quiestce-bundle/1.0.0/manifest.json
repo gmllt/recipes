@@ -1,0 +1,10 @@
+{
+    "bundles": {
+        "Mfy\\Portal\\Quiestce\\MfyPortalQuiestceBundle": [
+            "all"
+        ]
+    },
+    "copy-from-package": {
+        "config/routes": "%CONFIG_DIR%/routes"
+    }
+}
