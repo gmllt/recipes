@@ -5,6 +5,6 @@
         ]
     },
     "copy-from-package": {
-        "config/routes": "%CONFIG_DIR%/routes"
+        "src/Resources/config/routes/mfy_portal_quiestce.yaml": "%CONFIG_DIR%/routes/mfy_portal_quiestce.yaml"
     }
 }
